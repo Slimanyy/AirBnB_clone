@@ -23,7 +23,7 @@ A command interpreter is the part of a computer operating system that understand
 # Installation
 
 ```shell
-git clone https://github.com/slimanyy/AirBnB_clone.git
+git clone https://github.com/Slimanyy/AirBnB_clone.git
 cd AirBnB_clone
 ```
 

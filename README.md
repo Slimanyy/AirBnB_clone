@@ -1,10 +1,11 @@
 #  AirBnB clone - The console
-![coverage](coverage-badge.svg) ![Tests number](tests-badge.svg)
 
 ![enter image description here](https://i.imgur.com/44u0pXG.png)
                  Welcome to the AirBnB clone project! - The Console 
 
-This is the first part of a project for Holberton School: AirBnB clone - The console. First step: Write a command interpreter to manage the AirBnB objects.
+This is the first part of a project for Alx software engineering program: AirBnB clone - The console. 
+
+First step: Write a command interpreter to manage the AirBnB objects.
 
 ## Description Command Interpreter
 The Command Interpreter is used to manage the whole application's functionality from the command line, such as:
@@ -22,7 +23,7 @@ A command interpreter is the part of a computer operating system that understand
 # Installation
 
 ```shell
-git clone https://github.com/adrienmillot/AirBnB_clone.git
+git clone https://github.com/slimanyy/AirBnB_clone.git
 cd AirBnB_clone
 ```
 
@@ -58,9 +59,9 @@ $
 # Environment
 
 Language: Python3
-Style guidelines: PEP8
+Style guidelines: PEP8 pycode style checks
 
 # Authors
 
-* Adrien MILLOT | '2701@holbertonschool.com'
-* Mamadou Cherif BA | '2744@holbertonschool.com'
+* ABDULKAREEM ABDULQUDDUS OLAYINKA | 'aabdulqudduss@gmail.com'
+* MAFE OLUWAKEMI | 'kemimafe11@gmail.com'

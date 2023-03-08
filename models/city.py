@@ -1,13 +1,14 @@
 #!/usr/bin/python3
-""" State module """
+""" City module """
 
 
 from models.base_model import BaseModel
 
 
-class State(BaseModel):
-    """ State class """
+class City(BaseModel):
+    """ City class """
 
+    state_id = ""
     name = ""
 
     def __init__(self, *prmArgs, **prmKwArgs):
